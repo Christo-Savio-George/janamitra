@@ -41,7 +41,7 @@ Janamitra (ಜನಮಿತ್ರ | जनमित्र — *"Friend of the Peo
 | 📄 Document Upload | Upload TXT or PDF files directly |
 | 🤖 AI Summarization | Simplifies complex text using Llama 3 via Groq |
 | 💬 Smart Q&A | Ask any question about your uploaded document |
-| 🌐 Regional Translation | Translate summaries to Kannada or Hindi |
+| 🌐 Regional Translation | Translate summaries to 12 regional languages|
 | ⚡ Fast AI Inference | Powered by Groq API for low-latency responses |
 | 🧠 Plain Language Output | Designed specifically for common citizens |
 
@@ -129,7 +129,7 @@ Open your browser and go to `http://localhost:8501`.
 1. **Upload** a government notice, rental agreement, or any legal document (PDF or TXT)
 2. **Click Summarize** — Janamitra will instantly generate a plain-language explanation
 3. **Ask questions** — Type anything like *"What is my last date to pay?"* or *"What are my rights here?"*
-4. **Translate** — Switch the summary to Kannada or Hindi with one click
+4. **Translate** — Switch the summary to any of the 12 regional languages with one click
 
 ---
 
@@ -142,17 +142,6 @@ Try Janamitra with the included samples in the `sample_pdfs/` folder:
 
 ---
 
-## 🌐 Supported Languages
-
-| Language | Code |
-|---|---|
-| English | `en` |
-| Kannada | `kn` |
-| Hindi | `hi` |
-
-*More regional languages coming soon.*
-
----
 
 ## 🤝 Contributing
 
@@ -167,7 +156,7 @@ Contributions are welcome! If you'd like to improve Janamitra:
 ---
 
 ## 👥 Team Janamitra
-
+- Amrutha Nag BB, Christo Savio George, Sanjana Praveen, Sowmya G
 Built with ❤️ at Hackathon 2025 — NLP Track  
 **RNS Institute of Technology, Bengaluru**  
 Department of Computer Science & Engineering
