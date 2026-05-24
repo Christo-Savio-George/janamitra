@@ -616,7 +616,7 @@ st.markdown("""
         <span class="script-sep">·</span>
         <span class="script-ta">ஜன மித்ரா</span>
     </div>
-    <p class="hero-sub">Upload any legal or government document. We simplify it, translate it, and answer your questions — in your language.</p>
+    <center><p class="hero-sub">Upload any legal or government document. We simplify it, translate it, and answer your questions — in your language.</p></center>
 </div>
 """, unsafe_allow_html=True)
 
